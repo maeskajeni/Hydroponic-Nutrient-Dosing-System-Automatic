@@ -1,2 +1,2 @@
 # Hydroponic-Nutrient-Dosing-System-Automatic
-Tujuan pembuatan dari pemberian dosis nutrisi hidroponik otomatis adalah untuk memberikan  nutrisi, atau biasa disebut dengan tingkat kepadatan pada nutrisi (PPM atau Parts Per Million)  menjadi faktor yang signifikan untuk pertumbuhan dan perkembangan pada tanaman  hidroponik menggunakan media pada air
+The purpose of creating automatic hydroponic nutrient dosing is to provide nutrients, or what is usually called the density level of nutrients (PPM or Parts Per Million) to be a significant factor for growth and development in hydroponic plants using water media.
